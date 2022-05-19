@@ -1,6 +1,7 @@
 #### TypeScript - https://www.typescriptlang.org
 
 **`npm install typescript --save-dev`** - naistalovat lokalne typescript   
+**`npm install -g typescript`** - naistaluje typescript globalne (velmi nepouzivat)
 **`npx tsc`** - spustit lokalnu verziu tsc  
 **`npx tsc --init`** - inicializuje typescriptovy projekt (aka vytvori tsconfig.json)  
 **`npx tsc -w`** - spusti tsc do watch modu, takze pri zmene sa zmeny prejavia okamzite (command line style)
