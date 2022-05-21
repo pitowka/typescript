@@ -5,6 +5,7 @@
 **`npx tsc`** - spustit lokalnu verziu tsc  
 **`npx tsc --init`** - inicializuje typescriptovy projekt (aka vytvori tsconfig.json)  
 **`npx tsc -w`** - spusti tsc do watch modu, takze pri zmene sa zmeny prejavia okamzite (command line style)
+**`npx tsc --showConfig`** - zobrazi akutalny tsconfig.json
 
 #### tsconfig.json - https://aka.ms/tsconfig.json
 uzitocne nastavenie
