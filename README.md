@@ -29,3 +29,5 @@ uzitocne nastavenie
 
 #### Visual Code
 vsetky chybu si viem pozriet v zalozke View/Open view/Problems
+
+#### .vscode/settings.json
