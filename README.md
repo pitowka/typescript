@@ -31,3 +31,7 @@ uzitocne nastavenie
 vsetky chybu si viem pozriet v zalozke View/Open view/Problems
 
 #### .vscode/settings.json
+
+
+### useful links
+https://rmolinamir.github.io/typescript-cheatsheet (https://github.com/rmolinamir/typescript-cheatsheet)
